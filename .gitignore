@@ -21,3 +21,9 @@
 # and there is no need to check in as they will be regenerated when opened.
 **/.mayaSwatches/*.swatches
 **/.mayaSwatches/*.swatch
+
+# Ignore the Substance painter autosaves
+**/*_autosave_*.spp
+
+# Ignore the Substance painter lock files
+**/*.spp.painter_lock
