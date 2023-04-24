@@ -16,3 +16,8 @@
 *.xcodeproj
 *.xcworkspace
 /tmp
+
+# Swatch files are generated thumbnails for shader used to speed up hypershade
+# and there is no need to check in as they will be regenerated when opened.
+**/.mayaSwatches/*.swatches
+**/.mayaSwatches/*.swatch
