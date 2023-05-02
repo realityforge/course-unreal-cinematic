@@ -27,3 +27,6 @@
 
 # Ignore the Substance painter lock files
 **/*.spp.painter_lock
+
+# Ignore all python cache files
+**/__pycache__/**/*
