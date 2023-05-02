@@ -1,0 +1,18 @@
+{
+	"unreal": {
+		"dir": "../TheBasics/Import/Assets"
+	},
+	"substance_painter": {
+		"dir": "../SubstancePainter/Assets/Import"
+	},
+	"scenes": {
+		"HallFloor": {
+			"substance_painter" :{
+				"object": "HallFloorTile"
+			},
+			"unreal" :{
+				"object": "HallFloor"
+			}
+		}
+	}
+}
