@@ -1,5 +1,6 @@
 import maya.cmds as cmds
 
+
 def transfer_animation(source_object, target_object, cut: bool = False):
     """Transfer animations from a source object to a target object.
 
