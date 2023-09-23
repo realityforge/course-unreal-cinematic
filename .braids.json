@@ -1,0 +1,10 @@
+{
+  "config_version": 1,
+  "mirrors": {
+    "vendor/unreal-cinematic-creator": {
+      "url": "https://gitlab.com/GameDevTV/unreal-engine-cinematic-creator/unreal-cinematic-creator.git",
+      "branch": "main",
+      "revision": "9896c66b139a74bcc286ef5809c142cf5e6727dc"
+    }
+  }
+}
