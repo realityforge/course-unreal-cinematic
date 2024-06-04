@@ -1,6 +1,6 @@
 # Coursework for "Unreal Engine Cinematic Creator: Video Game Design Course"
 
-This repository contains the assets developed as part of the course [Unreal Engine Cinematic Creator: Video Game Design Course]https://www.gamedev.tv/p/unreal-cinematic).
+This repository contains the assets developed as part of the course [Unreal Engine Cinematic Creator: Video Game Design Course](https://www.gamedev.tv/p/unreal-cinematic).
 
 The goal of this course is to use Unreal to:
 
